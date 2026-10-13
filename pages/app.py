@@ -106,9 +106,3 @@ st.caption(
     'Intended refresh in production: Daily | Manager review: Weekly'
 )
 
-st.info(
-    'Data note: Some branches have multiple records in the same month. '
-    'The charts compare average sales per record, not verified monthly '
-    'branch totals. Currency and real/synthetic status are not confirmed. '
-    'This is a historical dataset, not a live dashboard.'
-)
